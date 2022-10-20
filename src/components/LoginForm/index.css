@@ -1,0 +1,58 @@
+.login-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin: 80px;
+}
+.nxt-trendz-login-img {
+  width: 80%;
+}
+.loginForm-container {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.websiteLogo {
+  width: 180px;
+  padding-left: 70px;
+  padding-bottom: 20px;
+}
+.input {
+  height: 25px;
+  width: 300px;
+  margin-bottom: 15px;
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding: 8px;
+  color: #64748b;
+  background-color: #d7dfe9;
+  outline: none;
+  border-width: 0px;
+}
+.label {
+  font-size: 13px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.login-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-size: 15px;
+  border-radius: 8px;
+  height: 35px;
+  cursor: pointer;
+  outline: none;
+  border-width: 0px;
+  font-weight: bold;
+}
+.message {
+  color: #ff0b37;
+  font-size: 13px;
+}
